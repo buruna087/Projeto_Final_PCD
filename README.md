@@ -43,7 +43,7 @@
 
 <p align="justify"> Para a titulação no modo 2 da amônia (pKb = 4.75) com o ácido clorídrico, ambos com a concentração de 0,1 molar, e o volume da base fraca titulada sendo igual a 25 ml, vamos ter o seguinte gráfico gerado pela ferramenta:
 <div align="center">
-<img width="960" height="720" alt="Curva_de_Titulacão_modo2" src="https://github.com/user-attachments/assets/fec557c1-6d65-4871-a0a6-2e7c1b941e23" />
+<img width="500" height="450" alt="Curva_de_Titulacão_modo2" src="https://github.com/user-attachments/assets/fec557c1-6d65-4871-a0a6-2e7c1b941e23" />
 </div>
      
 ## **Referências**
