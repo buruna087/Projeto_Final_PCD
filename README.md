@@ -41,7 +41,7 @@
 * Brown, T.L.; Lemay, H.E.; Murphy, C.J; Woodward, P.M; Stoltzfus, M.W. **Química: a ciência central**. Tradução de: Eloiza Lopes, Tiago Jonas, Sonia Midori Yamamoto; revisão técnica Antonio Gerson Bernardo da Cruz. 13ª edição, São Paulo: Pearson/Prentice Hall,2016.
 
 ## Desenvolvedora do Projeto
-- **Bruna Fujihashi** - [Bruna Fujihashi]()
+- **Bruna Fujihashi** - [Bruna Fujihashi]()<br>
 Estudante de Ciência e Tecnologia na Ilum Escola de Ciência.
 
 ## Professores 
