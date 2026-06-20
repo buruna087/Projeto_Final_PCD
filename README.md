@@ -1,4 +1,5 @@
-![image]()
+![image](<img width="6611" height="1234" alt="Ilum_Horizontal_com assinatura" src="https://github.com/user-attachments/assets/ffcb12a8-64e8-4538-a785-7c9c15d0c494" />
+)
 
 <div align="center">
 
@@ -20,6 +21,7 @@
 <!--te-->
 
 ## Descrição do Projeto 
+<p align="justify"> 
 
 ## Objetivo 
 
