@@ -38,7 +38,7 @@
 ## Gráficos gerados
 <p align="justify"> Para a titulação no modo 1 do ácido acético (pKa = 4.76) com o hidróxido de sódio, ambos com a concentração de 0,1 molar, e o volume do ácido fraco titulado sendo igual a 25 ml, vamos ter o seguindo gráfico gerado pela ferramenta:
 <div align="center">
-<img width="500" height="300" alt="Curva_de_Titulacão_modo1" src="https://github.com/user-attachments/assets/6cdd22c4-c91b-4e58-9995-958589b8fe00" />
+<img width="500" height="400" alt="Curva_de_Titulacão_modo1" src="https://github.com/user-attachments/assets/6cdd22c4-c91b-4e58-9995-958589b8fe00" />
 </div>
 
 <p align="justify"> Para a titulação no modo 2 da amônia (pKb = 4.75) com o ácido clorídrico, ambos com a concentração de 0,1 molar, e o volume da base fraca titulada sendo igual a 25 ml, vamos ter o seguinte gráfico gerado pela ferramenta:
