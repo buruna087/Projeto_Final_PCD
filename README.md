@@ -53,26 +53,12 @@
 Estudante de Ciência e Tecnologia na Ilum Escola de Ciência.
 
 ## Professores 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/17dfa7bf-5ca9-42df-b63e-917827fc6308" width="115"><br>
-      <sub><a href="http://lattes.cnpq.br/1717397276752482"><b>Prof. Dr. Daniel Roberto Cassar</b></a></sub>
-    </td>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/5be40392-5473-4b8b-b636-a55cbf0114fd" width="115"><br>
-      <sub><a href="http://lattes.cnpq.br/4169321429650165"><b>Prof. Dr. James Moraes de Almeida</b></a></sub>
-    </td>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/ca8bd41b-c6d0-479c-aacd-a3d2c6b45c0d" width="115"><br>
-      <sub><a href="http://lattes.cnpq.br/8039429508021054"><b>Prof. Dr. Leandro Nascimento Lemos</b></a></sub>
-    </td>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/08c1d19b-593e-4760-b484-719aa4feffe3" width="115"><br>
-      <sub><a href="http://lattes.cnpq.br/2367731800019171"><b>Profa. Dra. Valeria Spolon Marangoni</b></a></sub>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/17dfa7bf-5ca9-42df-b63e-917827fc6308" width="115">
+  <img src="https://github.com/user-attachments/assets/5be40392-5473-4b8b-b636-a55cbf0114fd" width="115">
+  <img src="https://github.com/user-attachments/assets/ca8bd41b-c6d0-479c-aacd-a3d2c6b45c0d" width="115">
+  <img src="https://github.com/user-attachments/assets/08c1d19b-593e-4760-b484-719aa4feffe3" width="115">
+</p>
 
 ## Agradecimentos
 <p align="justify"> Nesta seção dedido agradecimentos especiais a Prof. Dra. Valeria Spolon Marangoni pela revisão dos conceitos químicos por traz do projeto referido.
