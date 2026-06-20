@@ -8,7 +8,6 @@
 </div>
 
 ## Índice
-====================================
 <!--ts-->
 * [Descrição do Projeto](##Descrição-do-Projeto)
 * [Conteúdo do repositório](##Conteúdo-do-repositório)
@@ -46,10 +45,13 @@
 Estudante de Ciência e Tecnologia na Ilum Escola de Ciência.
 
 ## Professores 
-| <img src="https://github.com/user-attachments/assets/ae2aefe6-c8c8-4382-81b6-5bff4e1223e3" width="115"><br><sub>Prof. Dr. Daniel Roberto Cassar</sub><br><sub>[Lattes](http://lattes.cnpq.br/1717397276752482)</sub> |
-| <img src="https://github.com/user-attachments/assets/0357f463-2a82-4bb0-a433-6a17e161ee40" width="115"><br><sub>Prof. Dr. James Moraes de Almeida</sub><br><sub>[Lattes](http://lattes.cnpq.br/4169321429650165)</sub> |
-| <img src="https://github.com/user-attachments/assets/d94dad1e-2d07-447f-8927-8441db5baa98" width="115"><br><sub>Prof. Dr. Leandro Nascimento Lemos</sub><br><sub>[Lattes](http://lattes.cnpq.br/8039429508021054)</sub> |
-| <img src="https://github.com/user-attachments/assets/3d6fa4d3-9e74-4449-b1e3-9f9e0835b3e7" width="115"><br><sub>Profa. Dra. Valeria Spolon Marangoni</sub><br><sub>[Lattes](http://lattes.cnpq.br/2367731800019171)</sub> |
+| [<img loading="lazy" src=<img width="1000" height="1000" alt="image" src="https://github.com/user-attachments/assets/17dfa7bf-5ca9-42df-b63e-917827fc6308" />
+ width=115><br><sub> Prof. Dr. Daneiel Roberto Cassar</sub>] </sub></p> [Lattes](http://lattes.cnpq.br/1717397276752482) </sub></p> 
+
+
+| [<img loading="lazy" src= width=85><br><sub> Valéria Spolon Marangoni </sub>](https://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4252367Y6) <p><sub>[Lattes](https://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4252367Y6) </p></sub>||
+| :---: | :---: | :---: |
+
 
 ## Agradecimentos
 <p align="justify"> Nesta seção dedido agradecimentos especiais a Prof. Dra. Valeria Spolon Marangoni pela revisão dos conceitos químicos por traz do projeto referido.
