@@ -1,6 +1,5 @@
-<img src="https://github.com/user-attachments/assets/ffcb12a8-64e8-4538-a785-7c9c15d0c494"
-     alt="Ilum Horizontal com assinatura"
-     width="800">
+<img width="1300" height="252" alt="image" src="https://github.com/user-attachments/assets/433844c6-c5d0-4890-bc05-837aad7c6ea1" />
+
 
 <div align="center">
 
@@ -43,7 +42,7 @@
 
 <p align="justify"> Para a titulação no modo 2 da amônia (pKb = 4.75) com o ácido clorídrico, ambos com a concentração de 0,1 molar, e o volume da base fraca titulada sendo igual a 25 ml, vamos ter o seguinte gráfico gerado pela ferramenta:
 <div align="center">
-<img width="500" height="450" alt="Curva_de_Titulacão_modo2" src="https://github.com/user-attachments/assets/fec557c1-6d65-4871-a0a6-2e7c1b941e23" />
+<img width="500" height="400" alt="Curva_de_Titulacão_modo2" src="https://github.com/user-attachments/assets/fec557c1-6d65-4871-a0a6-2e7c1b941e23" />
 </div>
      
 ## **Referências**
