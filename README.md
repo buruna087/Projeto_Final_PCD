@@ -57,6 +57,5 @@ Estudante de Ciência e Tecnologia na Ilum Escola de Ciência.
 | :--: | :---: | :---: | :---: |
 
 ## Agradecimentos
-<p align="justify"> Nesta seção dedido agradecimentos especiais a Prof. Dra. Valeria Spolon Marangoni pela revisão dos conceitos químicos por traz do projeto referido.
-
+<p align="justify"> Nesta seção dedico agradecimentos especiais à Profa. Dra. Valeria Spolon Marangoni pela revisão dos conceitos químicos por trás do projeto em questão. Além de agradecer a todo suporte fornecido pelos Professores que coordenaram a disciplina de Prática em Ciências de Dados no decorrer do primeiro semestre letivo de 2026.
 
