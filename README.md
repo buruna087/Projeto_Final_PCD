@@ -12,7 +12,6 @@
 * [Descrição do Projeto](##Descrição-do-Projeto)
 * [Conteúdo do repositório](##Conteúdo-do-repositório)
 * [Bibliotecas utilizadas](##Bibliotecas-utilizadas)
-* [Como funciona?](##Como-funciona-?)
 * [Gráficos gerados](##Gráficos-gerados)
 * [Referências](##Referências)
 * [Desenvolvedora do projeto](##Desenvolvedora-do-Projeto)
@@ -31,9 +30,6 @@
 
 - matplotlib.pyplot - utilizada geração dos gráficos da curva de titulação.
 
-## Como funciona 
-
-
 ## Gráficos gerados
 
 
@@ -45,7 +41,14 @@
 Estudante de Ciência e Tecnologia na Ilum Escola de Ciência.
 
 ## Professores 
-<img loading="lazy" src="https://github.com/user-attachments/assets/17dfa7bf-5ca9-42df-b63e-917827fc6308" width=115><br><sub> Prof. Dr. Daneiel Roberto Cassar</sub> </sub></p>[Lattes](http://lattes.cnpq.br/1717397276752482)  </sub></p> <img loading="lazy" src="https://github.com/user-attachments/assets/5be40392-5473-4b8b-b636-a55cbf0114fd" width=115><br><sub> Prof. Dr. James Moraes de Almeida</sub> </sub></p>[Lattes](http://lattes.cnpq.br/4169321429650165) </sub></p> <img loading="lazy" src="https://github.com/user-attachments/assets/ca8bd41b-c6d0-479c-aacd-a3d2c6b45c0d" width=115><br><sub> Prof. Dr. Leandro Nascimento Lemos</sub> </sub></p>[Lattes](http://lattes.cnpq.br/8039429508021054) </sub></p> <img loading="lazy" src="https://github.com/user-attachments/assets/80c43ae8-423e-4c1a-b0d3-9184644883ed" width=115><br><sub> Profa Dra. Valeria Spolon Marangoni</sub> </sub></p>[Lattes](http://lattes.cnpq.br/2367731800019171) </sub></p> 
+<img loading="lazy" src="https://github.com/user-attachments/assets/17dfa7bf-5ca9-42df-b63e-917827fc6308" width=115><br><sub> [Prof. Dr. Daneiel Roberto
+Cassar](http://lattes.cnpq.br/1717397276752482)  
+
+</sub></p> <img loading="lazy" src="https://github.com/user-attachments/assets/5be40392-5473-4b8b-b636-a55cbf0114fd" width=115><br><sub> Prof. Dr. James Moraes de Almeida</sub> </sub></p>[Lattes](http://lattes.cnpq.br/4169321429650165) 
+
+</sub></p> <img loading="lazy" src="https://github.com/user-attachments/assets/ca8bd41b-c6d0-479c-aacd-a3d2c6b45c0d" width=115><br><sub> Prof. Dr. Leandro Nascimento Lemos</sub> </sub></p>[Lattes](http://lattes.cnpq.br/8039429508021054) 
+
+</sub></p> <img loading="lazy" src="https://github.com/user-attachments/assets/08c1d19b-593e-4760-b484-719aa4feffe3" width=115><br><sub> Profa Dra. Valeria Spolon Marangoni</sub> </sub></p>[Lattes](http://lattes.cnpq.br/2367731800019171) </sub></p> 
 
 
 
