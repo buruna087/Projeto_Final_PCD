@@ -45,11 +45,7 @@
 Estudante de Ciência e Tecnologia na Ilum Escola de Ciência.
 
 ## Professores 
-| [<img loading="lazy" src=<img width="1000" height="1000" alt="image" src="https://github.com/user-attachments/assets/17dfa7bf-5ca9-42df-b63e-917827fc6308" />
- width=115><br><sub> Prof. Dr. Daneiel Roberto Cassar</sub>] </sub></p> [Lattes](http://lattes.cnpq.br/1717397276752482) </sub></p> 
-
-
-| [<img loading="lazy" src= width=85><br><sub> Valéria Spolon Marangoni </sub>](https://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4252367Y6) <p><sub>[Lattes](https://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4252367Y6) </p></sub>||
+| [<img loading="lazy" src="https://github.com/user-attachments/assets/17dfa7bf-5ca9-42df-b63e-917827fc6308" width=115><br><sub> Prof. Dr. Daneiel Roberto Cassar</sub>] </sub></p>[Lattes](http://lattes.cnpq.br/1717397276752482)  </sub></p> | [<img loading="lazy" src="https://github.com/user-attachments/assets/5be40392-5473-4b8b-b636-a55cbf0114fd" width=115><br><sub> Prof. Dr. James Moraes de Almeida</sub>] </sub></p>[Lattes](http://lattes.cnpq.br/4169321429650165) </sub></p> | [<img loading="lazy" src="https://github.com/user-attachments/assets/ca8bd41b-c6d0-479c-aacd-a3d2c6b45c0d" width=115><br><sub> Prof. Dr. Leandro Nascimento Lemos</sub>] </sub></p>[Lattes](http://lattes.cnpq.br/8039429508021054) </sub></p> | [<img loading="lazy" src="https://github.com/user-attachments/assets/80c43ae8-423e-4c1a-b0d3-9184644883ed" width=115><br><sub> Profa Dra. Valeria Spolon Marangoni</sub>] </sub></p>[Lattes](http://lattes.cnpq.br/2367731800019171) </sub></p> | 
 | :---: | :---: | :---: |
 
 
