@@ -45,11 +45,10 @@
 Estudante de Ciência e Tecnologia na Ilum Escola de Ciência.
 
 ## Professores 
-| [<img loading="lazy" src="<img width="282" height="286" alt="image" src="https://github.com/user-attachments/assets/ae2aefe6-c8c8-4382-81b6-5bff4e1223e3" />
-" width=115><br><sub> Prof. Dr. Daniel Roberto Cassar</sub>] <p><sub>[Lattes](http://lattes.cnpq.br/1717397276752482) </sub>/p> | [<img loading="lazy" src="<img width="284" height="282" alt="image" src="https://github.com/user-attachments/assets/0357f463-2a82-4bb0-a433-6a17e161ee40" />
-" width=115><br><sub> Prof. Dr. James Moraes de Almeida</sub>] <p><sub>[Lattes]( http://lattes.cnpq.br/4169321429650165) </sub>/p> | [<img loading="lazy" src="<img width="284" height="285" alt="image" src="https://github.com/user-attachments/assets/d94dad1d-2d07-447f-8927-8441db5baa98" />
-" width=115><br><sub> Prof. Dr. Leandro Nascimento Lemos</sub>] <p><sub>[Lattes](http://lattes.cnpq.br/8039429508021054) </sub>/p> | [<img loading="lazy" src="<img width="283" height="280" alt="image" src="https://github.com/user-attachments/assets/3d6fa4d3-9e74-4449-b1e3-9f9e0835b3e7" />
-" width=115><br><sub> Profa. Dra. Valeria Spolon Marangoni</sub>] <p><sub>[Lattes](http://lattes.cnpq.br/2367731800019171) </sub>/p> 
+| <img src="https://github.com/user-attachments/assets/ae2aefe6-c8c8-4382-81b6-5bff4e1223e3" width="115"><br><sub>Prof. Dr. Daniel Roberto Cassar</sub><br><sub>[Lattes](http://lattes.cnpq.br/1717397276752482)</sub> |
+| <img src="https://github.com/user-attachments/assets/0357f463-2a82-4bb0-a433-6a17e161ee40" width="115"><br><sub>Prof. Dr. James Moraes de Almeida</sub><br><sub>[Lattes](http://lattes.cnpq.br/4169321429650165)</sub> |
+| <img src="https://github.com/user-attachments/assets/d94dad1e-2d07-447f-8927-8441db5baa98" width="115"><br><sub>Prof. Dr. Leandro Nascimento Lemos</sub><br><sub>[Lattes](http://lattes.cnpq.br/8039429508021054)</sub> |
+| <img src="https://github.com/user-attachments/assets/3d6fa4d3-9e74-4449-b1e3-9f9e0835b3e7" width="115"><br><sub>Profa. Dra. Valeria Spolon Marangoni</sub><br><sub>[Lattes](http://lattes.cnpq.br/2367731800019171)</sub> |
 
 ## Agradecimentos
 <p align="justify"> Nesta seção dedido agradecimentos especiais a Prof. Dra. Valeria Spolon Marangoni pela revisão dos conceitos químicos por traz do projeto referido.
