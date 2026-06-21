@@ -57,5 +57,5 @@ Estudante do Bacharelado em Ciência e Tecnologia na Ilum Escola de Ciência.
 | :--: | :---: | :---: | :---: |
 
 ## Agradecimentos
-<p align="justify"> Nesta seção dedico agradecimentos especiais à Profa. Dra. Valeria Spolon Marangoni pela revisão dos conceitos químicos por trás do projeto em questão. Além de agradecer a todo suporte fornecido pelos Professores que coordenaram a disciplina de Prática em Ciências de Dados no decorrer do primeiro semestre letivo de 2026.
+<p align="justify"> Nesta seção dedico agradecimentos especiais à Profa. Dra. Valeria Spolon Marangoni pela revisão dos conceitos químicos por trás do projeto em questão. Também gostaria de agradecer a todo suporte fornecido pelos Professores que coordenaram a disciplina de Prática em Ciências de Dados no decorrer do primeiro semestre letivo de 2026.
 
