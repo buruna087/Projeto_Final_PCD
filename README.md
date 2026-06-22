@@ -6,20 +6,6 @@
 # <h1 align="center"> Gráficos da curva de titulação ácido-base
 </div>
 
-## Índice
-<!--ts-->
-* [Descrição do Projeto](##Descrição-do-Projeto)
-* [Conteúdo do repositório](##Conteúdo-do-repositório)
-* [Bibliotecas utilizadas](##Bibliotecas-utilizadas)
-* [Como funciona?](##Como-funciona-?)
-* [Gráficos gerados](##Gráficos-gerados)
-* [Conclusão](##Conclusão)
-* [Referências](##Referências)
-* [Desenvolvedora do projeto](##Desenvolvedora-do-Projeto)
-* [Professores](##Professores)
-* [Agradecimentos](##Agradecimentos)
-<!--te-->
-
 ## Descrição do Projeto 
 <p align="justify"> O projeto apresentado foi desenvolvido como parte da avaliação dos conhecimentos adquiridos no decorrer do 1º semestre letivo de 2026 na disciplina de Prátca em Ciência de Dados. Essa disciplina foi ministrada pelos docentes Prof. Dr. Daniel Roberto Cassar, Prof. Dr. James Moraes de Almeida e Prof. Dr. Leandro Nascimento Lemos. Neste projeto foi desenvolvida uma ferramenta em linguagem Python que gera gráficos referentes a curva de titulação de uma solução ácida fraca monoprotonada ou básica fraca monohidroxilada. O usuário fonece os dados solicitados e, a partir disso, os gráficos são gerados e salvos em formato png para que seja possível a visualização do comportamento da solução durante a titulação. Com essa proposta, é esperado que os usuários possam ter uma ferramenta que os ajude a visualizar o processo de titulação contendo somente os parâmetros da reação que precisa ser avaliada. A ferramenta foi pensada como uma forma de ajudar não somente estudantes que estão iniciando suas vidas em laboratórios e precisam de gráficos para estudar o comportamento da titulação, como também aqueles que buscam aprofundar seus conhecimentos no assunto sem a necessidade realizar experimentos físicos. 
 
